@@ -1,0 +1,11 @@
+@import url("fontiran.css");
+
+body > * {
+    font-family: IRANSans !important;
+}
+
+.caption {
+
+    height: 156px;
+
+}
